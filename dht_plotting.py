@@ -1,4 +1,4 @@
-#https://github.com/Majdawad88/dht_plotting.git
+#git clone https://github.com/Majdawad88/dht_plotting.git
 
 import matplotlib.pyplot as plt
 import matplotlib.animation as animation
